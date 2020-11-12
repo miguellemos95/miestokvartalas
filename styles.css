@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#f9db79;
+  }
+
+@font-face {
+    font-family: "din";
+    src: url("assets/font/DIN_Neuzeit_Grotesk.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "BelindaW00-Regular";
+  src: url("assets/font/Belinda_W00_Regular.ttf")format("truetype");
+}
+
+@font-face {
+  font-family: "lulo-clean-w01-one-bold";
+  src: url("assets/font/Lulo_Clean_W01_One_Bold.ttf")format("truetype");
+}
+
+@font-face {
+  font-family: "dinneuzeitgroteskltw01";
+  src: url("assets/font/DIN_Neuzeit_Grotesk_LT_W01_BdCn.ttf")format("truetype");
+}
